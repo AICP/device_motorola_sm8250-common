@@ -57,7 +57,8 @@ PRODUCT_PACKAGES += \
     WifiResTarget
 
 PRODUCT_PACKAGES += \
-    FrameworksResMotoKona
+    FrameworksResMotoKona \
+    NfcOverlay
 
 # A/B
 AB_OTA_POSTINSTALL_CONFIG += \
