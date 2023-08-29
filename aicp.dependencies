@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "AICP/kernel_motorola_sm8250",
+    "target_path": "kernel/motorola/sm8250"
+  },
+  {
+    "repository": "LineageOS/android_system_qcom",
+    "target_path": "system/qcom",
+    "branch":      "lineage-20"
+  }
+]
